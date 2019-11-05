@@ -22,6 +22,10 @@ let package = Package(
 $ swift build
 ```
 
+Or install with Xcode via File -> Swift Packages -> Add Package Dependency and then<br>
+enter `https://github.com/purplefrizzel/MathKit.git` and click Next<br>
+select `master` for the branch, then click Next again.
+
 #### [Carthage](https://github.com/Carthage/Carthage)
 
 Create a `CartFile` and add this to it.
