@@ -10,10 +10,7 @@ Build/
 !default.mode2v3
 *.perspectivev3
 !default.perspectivev3
-xcuserdata/
-
-## Other
-*.moved-aside
+xcuserdata
 *.xccheckout
 *.moved-aside
 DerivedData
