@@ -24,7 +24,7 @@ $ swift build
 
 #### [Carthage](https://github.com/Carthage/Carthage)
 
-Create a`CartFile` and add this to it.
+Create a `CartFile` and add this to it.
 ```carthage
 github "purplefrizzel/MathKit"
 ```
