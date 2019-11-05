@@ -14,6 +14,5 @@
 | ------------- | ------------------ |
 | iOS 13.x      | :white_check_mark: |
 | iOS 12.x      | :white_check_mark: |
-| iOS 11.x      | :white_check_mark: |
-| < iOS 10.x    | :x:                |
+| < iOS 11.x    | :x:                |
 
