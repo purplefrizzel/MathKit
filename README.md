@@ -22,6 +22,16 @@ let package = Package(
 $ swift build
 ```
 
+#### [Carthage](https://github.com/Carthage/Carthage)
+
+```carthage
+github "purplefrizzel/MathKit"
+```
+
+```bash
+$ carthage update
+```
+
 ## Docs
 
 Indices - [Show Docs](https://github.com/purplefrizzel/MathKit/blob/master/Docs/Indices.md)<br>
