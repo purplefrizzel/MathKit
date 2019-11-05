@@ -38,6 +38,16 @@ $ pod install
 
 ## Docs
 
-Indices - [Show Docs](https://github.com/purplefrizzel/MathKit/master/Docs/Indices.md)<br>
-Percentage - [Show Docs](https://github.com/purplefrizzel/MathKit/master/Docs/Percentage.md)<br>
-Primes - [Show Docs](https://github.com/purplefrizzel/MathKit/master/Docs/Primes.md)
+Indices - [Show Docs](https://github.com/purplefrizzel/MathKit/blob/master/Docs/Indices.md)<br>
+Percentage - [Show Docs](https://github.com/purplefrizzel/MathKit/blob/master/Docs/Percentage.md)<br>
+Primes - [Show Docs](https://github.com/purplefrizzel/MathKit/blob/master/Docs/Primes.md)
+
+
+## Security
+
+[Supported Versions](https://github.com/purplefrizzel/MathKit/blob/master/SECURITY.md)
+
+
+## License
+
+[MIT](https://github.com/purplefrizzel/MathKit/blob/master/LICENSE)
