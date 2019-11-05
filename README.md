@@ -22,20 +22,6 @@ let package = Package(
 $ swift build
 ```
 
-#### [CocoaPods](https://cocoapods.org)
-```ruby
-# Podfile
-target 'YOUR_TARGET_NAME' do
-    use_frameworks!
-    
-    pod 'MathKit'
-end
-```
-
-```bash
-$ pod install
-```
-
 ## Docs
 
 Indices - [Show Docs](https://github.com/purplefrizzel/MathKit/blob/master/Docs/Indices.md)<br>
