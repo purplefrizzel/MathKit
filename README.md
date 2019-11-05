@@ -28,7 +28,7 @@ Create a `CartFile` and add this to it.
 ```carthage
 github "purplefrizzel/MathKit"
 ```
-
+then run this command.
 ```bash
 $ carthage update
 ```
