@@ -46,3 +46,8 @@ Primes - [Show Docs](https://github.com/purplefrizzel/MathKit/blob/master/Docs/P
 ## Security
 
 [Supported Versions](https://github.com/purplefrizzel/MathKit/blob/master/SECURITY.md)
+
+
+## License
+
+[MIT](https://github.com/purplefrizzel/MathKit/blob/master/LICENSE)
