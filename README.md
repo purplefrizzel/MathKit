@@ -41,7 +41,7 @@ $ carthage update
 
 Indices - [Show Docs](https://github.com/purplefrizzel/MathKit/blob/master/Docs/Indices.md)<br>
 Percentage - [Show Docs](https://github.com/purplefrizzel/MathKit/blob/master/Docs/Percentage.md)<br>
-Primes - [Show Docs](https://github.com/purplefrizzel/MathKit/blob/master/Docs/Primes.md)
+Primes - [Show Docs](https://github.com/purplefrizzel/MathKit/blob/master/Docs/Primes.md)<br>
 Averages - [Show Docs](https://github.com/purplefrizzel/MathKit/blob/master/Docs/Averages.md)
 
 
