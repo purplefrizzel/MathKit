@@ -22,18 +22,19 @@ let package = Package(
 $ swift build
 ```
 
-#### [CocoaPods](https://cocoapods.org)
-```ruby
-# Podfile
-target 'YOUR_TARGET_NAME' do
-    use_frameworks!
-    
-    pod 'MathKit'
-end
-```
+Or install with Xcode via File -> Swift Packages -> Add Package Dependency and then<br>
+enter `https://github.com/purplefrizzel/MathKit.git` and click Next.<br>
+select `master` for the branch, then click Next again.
 
+#### [Carthage](https://github.com/Carthage/Carthage)
+
+Create a `CartFile` and add this to it.
+```carthage
+github "purplefrizzel/MathKit"
+```
+then run this command.
 ```bash
-$ pod install
+$ carthage update
 ```
 
 ## Docs
