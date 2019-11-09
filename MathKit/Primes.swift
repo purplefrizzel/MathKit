@@ -10,6 +10,7 @@ import Foundation
 
 
 extension Int {
+    /// Finds out if a Int is a prime number up to 37.
     var isPrime: Bool {
         let primes = [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37]
         if primes.contains(self) == true {

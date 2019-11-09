@@ -10,10 +10,12 @@ import Foundation
 
 
 extension Int {
+    /// Returns a square of a Int.
     var square: Any { return self * self }
 }
 
 extension Int {
+    /// Returns a cube of a Int.
     var cube: Any { return self * self * self }
 }
 
