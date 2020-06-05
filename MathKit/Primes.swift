@@ -10,7 +10,7 @@ import Foundation
 
 
 extension Int {
-    /// Finds out if a Int is a prime number up to 37.
+    /// Finds out if a Int is a prime number up to 15,485,863.
     var isPrime: Bool {
         let primes = 2...15_485_863
         if primes.contains(self) == true {
